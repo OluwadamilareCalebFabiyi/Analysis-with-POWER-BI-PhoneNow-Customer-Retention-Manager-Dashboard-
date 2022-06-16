@@ -7,7 +7,7 @@ This was my second task during Pwc Inrenship.
 
 Create a dashboard that shows the necessary KPI's for our Retention Manager.
 
-Help us create a Visualization that can help us better interpret the data and retain our customers.
+Help us create a Visualization, generate insights and provide recommendations that can help us better retain our customers.
 
 # Data Sourcing and Transformation
 
